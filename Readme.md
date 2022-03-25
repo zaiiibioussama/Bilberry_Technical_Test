@@ -15,6 +15,7 @@ Cette application permet d'avoir une image en input qui va être noir et blanc e
  	elle se transforme en blanc
  
  *Après cette opération en enregistre la nouvelle matrice pour avoir la même image indiquée par son seuil diviser en deux couleurs (noires et blanches) comme un output
- -------------------------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------------------------
  Deux images de input pour le test ImageTest1.png, ImageTest2.png
  
