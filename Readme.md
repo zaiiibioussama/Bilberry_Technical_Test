@@ -1,6 +1,6 @@
 Cette application permet d'avoir une image en input qui va être noir et blanc en output à la fin du traitement je vous montre ici les étapes qui vont être faite 
 -l'image va être parcourue en pixel pour que la couleur verte se transforme en noir et le reste des couleurs en blanc
--le path de l'image de l'input et le seuil de la couleur verte sont passé en argument et vont être passés par un test de saisie:Cancel changes
+-le path de l'image de l'input et le seuil de la couleur verte sont passé en argument et vont être passés par un test de saisie:
 	si le path de l'image est incorrect ou le seuil n'est pas compatible un message d'erreur va être affiché .
 	si l'utilisateur se trompe en entrant ces inputs un message d'aide va s'afficher.
 -après l'image est récupérée sous forme de matrice de pixel.
